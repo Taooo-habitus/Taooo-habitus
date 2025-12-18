@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Tao, the AI Engineer at Habitus, Denmark 🇩🇰.
+- 👋 Hi, I’m Tao, the AI Engineer at Habitus, Denmark 🇩🇰
 - 👀 I’m interested in Machine Learning and Bouldering 🧗
-- 🌱 I’m currently learning how to deploy ML Python models on DBT🩹
+- 🌱 I’m currently learning how to build an agentic chatbot 🤖
 - 📫 How to reach me: ttan@habitus.dk 📧
 - 😄 Pronouns: He / Him 🌟
 - ⚡ Not Fun fact: I don't like Cinnamon 😿
